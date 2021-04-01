@@ -1,4 +1,4 @@
-################## spherical k-principal component clustering##########
+################## spherical k-principal-component clustering##########
 #######################################################################
 #described in https://arxiv.org/abs/2103.11475
 #The main routine:
