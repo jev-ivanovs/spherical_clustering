@@ -1,5 +1,6 @@
 ################## spherical k-principal-component clustering ##########
-############################### R language code ########################################
+
+############################### R language code ########################
 
 described in https://arxiv.org/abs/2103.11475
 
