@@ -2,7 +2,9 @@
 
 ############################### R language code ########################
 
-described in https://arxiv.org/abs/2103.11475
+described in
+V. Fomichov and J. Ivanovs. Spherical clustering in detection of groups of concomitant extremes. Biometrika ???.
+https://arxiv.org/abs/2103.11475
 
 The main routine:
 clusterPC(data,k=2,nrep=100,tol=10^(-5),startFromMeans=FALSE)
